@@ -19,7 +19,7 @@ export default function MainPage() {
             </span>
             <div className="brand-wordmark small mt-3">Contact Me</div>
 
-            <h2 className="main-title">TERAWATT</h2>
+            <h2 className="main-title">OHM TERAWATT</h2>
 
             <p className="brand-tagline">
               Reduce Global Warming | Save on Electricity Bills
