@@ -22,7 +22,7 @@ export default function MainPage() {
             <h2 className="main-title">TERAWATT</h2>
 
             <p className="brand-tagline">
-              ลดโลกร้อน | ประหยัดค่าไฟ | ความยั่งยืน
+              Reduce Global Warming | Save on Electricity Bills
             </p>
 
             <span className="d-flex w-100 justify-content-center">
@@ -46,19 +46,18 @@ export default function MainPage() {
 
             <h3 className="mt-3">Titawan Udhayananandh (Ohm)</h3>
             <hr />
-            <p className="text-muted mb-1">เลขที่การขาย: 1234</p>
+            <p className="text-muted mb-1">Sale Number: 1234</p>
 
-            <p className="text-muted mb-2">พนักงานการตลาด และฝ่ายขาย</p>
             <hr />
 
             <p className="modal-desc">
-              ผู้ให้คำแนะนำสำหรับการขายของบริษัท Terawatt Company
+              Brand & Marketting of Terawatt Company
             </p>
 
             <div className="modal-highlight">
-              ✔ พนักงานฝ่ายการตลาด
+              ✔ Marketting Specialist
               <br />
-              {/* ✔ ดูแลลูกค้า XX+ คน<br/> */}✔ พนักงานฝ่ายขาย
+              {/* ✔ ดูแลลูกค้า XX+ คน<br/> */}✔ Sale
             </div>
 
             <Button
@@ -67,7 +66,7 @@ export default function MainPage() {
                 window.open("https://line.me/ti/p/4MkTKwVD0q", "_blank");
               }}
             >
-              แอดไลน์เพื่อปรึกษา
+              Add Line for Consultation
             </Button>
           </div>
         </div>

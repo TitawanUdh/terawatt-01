@@ -6,7 +6,7 @@ import "react-phone-number-input/style.css";
 const links = [
   {
     num: 1,
-    title: "แอดไลน์เพื่อปรึกษาฟรี",
+    title: "Line for Consultation",
     link: "https://line.me/ti/p/4MkTKwVD0q",
     icon: <FaLine />,
     primary: true,

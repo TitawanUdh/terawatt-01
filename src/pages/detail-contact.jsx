@@ -18,21 +18,20 @@ function DetailContact() {
       >
         <Card className="card-contact">
           <Card.Body>
-            <h2 className="fw-bold mb-3">ติดต่อเรา</h2>
+            <h2 className="fw-bold mb-3">Contact Me</h2>
             <Card.Text>
               <p>
                 {" "}
-                หากคุณต้องการสร้าง Quiz เกมให้กับแบรนด์ของคุณ
-                เพื่อเป็นกิจกรรมทางการตลาด
-                หรือเพื่อสร้างความสัมพันธ์ที่ดีกับลูกค้า
-                สามารถติดต่อเราได้ที่ช่องทางด้านล่างนี้เลยค่ะ
+                If you want to create a Quiz game for your brand
+                to be a marketing activity
+                or to build a good relationship with customers
+                you can contact us at the channels below
               </p>
               <p>
-                สามารถเก็บข้อมูลของผู้เล่นได้อย่างปลอดภัย
-                และนำไปใช้ประโยชน์ได้จริง
-                แต่ยังคงให้ความสำคัญกับความเป็นส่วนตัวของผู้เล่นเป็นหลัก (PDPA)
-                เช่น การนำไปใช้ในการทำ CRM หรือการทำ Retargeting Ads
-                ได้อย่างมีประสิทธิภาพ
+                You can securely store player data and utilize it for real-world applications,
+                while still prioritizing player privacy (PDPA).
+                For example, you can use this data for CRM or Retargeting Ads
+                to achieve maximum effectiveness.
               </p>
               <hr />
               <Button
